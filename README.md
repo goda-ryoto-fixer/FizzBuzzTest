@@ -1,2 +1,0 @@
-# FizzBuzzTest
-FizzBuzzTest using xUnit
